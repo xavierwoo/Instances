@@ -15,6 +15,6 @@ source sink
 ...
 
 
-source sink node bandwidth
+source sink bandwidth
 
 ...
