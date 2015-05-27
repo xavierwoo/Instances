@@ -10,9 +10,11 @@ The lines with two elements represent the edges of the physical network.
 The lines with three elements represent the traffic demands
 
 
-<source node> <sink node>
+source sink 
+
 ...
 
 
-<source node> <sink node> <bandwidth>
+source sink bandwidth
+
 ...
