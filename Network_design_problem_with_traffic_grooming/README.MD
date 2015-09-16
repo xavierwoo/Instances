@@ -4,9 +4,9 @@
 
 ####Format
 
-The first line tells the capacity of the lightpath.
+The first line tells the number of traffic demands and the capacity of the lightpath.
 The last lines represent the traffic demands
 
-<Capacity of the lightpath>
+<number of traffic demands> <capacity of the lightpath>
 <source> <sink> <bandwidth>
 ...
